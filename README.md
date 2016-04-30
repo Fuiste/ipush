@@ -5,7 +5,7 @@ Push notifications can be hard.  `ipush` provides functionality to help change t
 ## Usage
 
 ```bash
-npm install --no-optional
+npm install
 npm link
 ipush init  # You'll be prompted for your info here.
 ```
