@@ -1,0 +1,31 @@
+{
+  "name": "ipush",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Ionic Push helper tool",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "winston": "^2.2.0"
+  },
+  "engines": {
+    "npm": "~2.6.x"
+  },
+  "bin": {
+    "ipush": "bin/ipush.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/ipush.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "authors": [
+    {
+      "name": "William Pelrine",
+      "email": "drawncloser@gmail.com",
+      "web": "https://twitter.com/fuiste"
+    }
+  ],
+  "license": "Proprietary"
+}
