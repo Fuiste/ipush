@@ -9,3 +9,14 @@ npm install
 npm link
 ipush send --example  # You'll be prompted for your info here.
 ```
+
+## Goals
+
+- Send pushes
+  - [ ] From string
+  - [ ] From `.json` file
+  - [ ] Interactive
+- Generate send scripts
+  - [ ] Node module
+  - [ ] Python class
+  - [ ] more... 
